@@ -15,7 +15,7 @@ Source code of Login screen of web application in nextjs framework to represent 
 These instructions assume that you have npm package manager installed. If not, please install it from: https://www.npmjs.com/package/npm
 
 1. Clone the repo from git
-git clone https://github.com/dslshweta/
+git clone https://github.com/dslshweta/abcracing-web
 
 2. Go into the repo directory and install packages using command
 npm install
