@@ -1,0 +1,1 @@
+{"ast":null,"code":"export function validateRequire(value = '') {\n  return !!value.trim();\n}\nexport default {\n  validateRequire\n};","map":null,"metadata":{},"sourceType":"module"}

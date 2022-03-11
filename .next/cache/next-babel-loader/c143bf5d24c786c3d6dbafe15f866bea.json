@@ -1,0 +1,1 @@
+{"ast":null,"code":"import _objectWithoutProperties from \"@babel/runtime/helpers/esm/objectWithoutProperties\";\nimport Icons from './Icons';\nexport default function Icon(_ref) {\n  var name = _ref.name,\n      restProps = _objectWithoutProperties(_ref, [\"name\"]);\n\n  return Icons[name](restProps);\n}","map":null,"metadata":{},"sourceType":"module"}

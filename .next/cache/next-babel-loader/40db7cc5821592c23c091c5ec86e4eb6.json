@@ -1,0 +1,1 @@
+{"ast":null,"code":"export function validateRequire() {\n  var value = arguments.length > 0 && arguments[0] !== undefined ? arguments[0] : '';\n  return !!value.trim();\n}\nexport default {\n  validateRequire: validateRequire\n};","map":null,"metadata":{},"sourceType":"module"}

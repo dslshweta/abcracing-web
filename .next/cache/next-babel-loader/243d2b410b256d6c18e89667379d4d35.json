@@ -1,0 +1,1 @@
+{"ast":null,"code":"import ForgotPassword from './ForgotPassword';\nexport default ForgotPassword;","map":null,"metadata":{},"sourceType":"module"}

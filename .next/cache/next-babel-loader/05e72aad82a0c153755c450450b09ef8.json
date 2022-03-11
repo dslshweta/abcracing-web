@@ -1,0 +1,1 @@
+{"ast":null,"code":"import dynamic from 'next/dynamic';\nexport default dynamic(() => import('./LoginRequired'), {\n  loadableGenerated: {\n    webpack: () => [require.resolveWeak('./LoginRequired')],\n    modules: ['./LoginRequired']\n  }\n});","map":null,"metadata":{},"sourceType":"module"}

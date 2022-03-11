@@ -1,0 +1,1 @@
+{"ast":null,"code":"export var logo = {\n  app: {\n    src: '/abc_logo.png'\n  }\n};\nexport var locale = {\n  EN: 'en',\n  AS: 'as',\n  GU: 'gu',\n  HI: 'hi',\n  KN: 'kn',\n  ML: 'ml',\n  OR: 'or',\n  TA: 'ta',\n  TE: 'te'\n};\nexport default {\n  locale: locale,\n  logo: logo\n};","map":null,"metadata":{},"sourceType":"module"}

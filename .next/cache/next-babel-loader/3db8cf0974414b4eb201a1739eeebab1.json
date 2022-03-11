@@ -1,0 +1,1 @@
+{"ast":null,"code":"import Login from '../views/Login';\nimport Authentication from '../common/layouts/Authentication';\n\nconst login = () => null;\n\nlogin.View = Login;\nlogin.Layout = Authentication;\nexport default login;","map":null,"metadata":{},"sourceType":"module"}

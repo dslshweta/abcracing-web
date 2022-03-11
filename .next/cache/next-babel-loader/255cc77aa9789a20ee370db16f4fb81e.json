@@ -1,0 +1,1 @@
+{"ast":null,"code":"import \"antd/lib/button/style\";\nimport _Button from \"antd/lib/button\";\nexport default _Button;","map":null,"metadata":{},"sourceType":"module"}

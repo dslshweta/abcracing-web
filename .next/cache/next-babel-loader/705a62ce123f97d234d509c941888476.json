@@ -1,0 +1,1 @@
+{"ast":null,"code":"import translations from './translations.json';\nexport default translations;","map":null,"metadata":{},"sourceType":"module"}

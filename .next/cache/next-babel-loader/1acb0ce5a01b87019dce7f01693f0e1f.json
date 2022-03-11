@@ -1,0 +1,1 @@
+{"ast":null,"code":"import Authentication from './Authentication';\nexport default Authentication;","map":null,"metadata":{},"sourceType":"module"}

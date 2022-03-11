@@ -1,0 +1,1 @@
+{"ast":null,"code":"import ForgotPassword from '../views/ForgotPassword';\nimport Authentication from '../common/layouts/Authentication';\n\nvar forgotPassword = function forgotPassword() {\n  return null;\n};\n\nforgotPassword.View = ForgotPassword;\nforgotPassword.Layout = Authentication;\nexport default forgotPassword;","map":null,"metadata":{},"sourceType":"module"}

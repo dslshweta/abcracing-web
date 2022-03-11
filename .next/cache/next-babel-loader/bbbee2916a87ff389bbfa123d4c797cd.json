@@ -1,0 +1,1 @@
+{"ast":null,"code":"import \"antd/lib/menu/style\";\nimport _Menu from \"antd/lib/menu\";\nexport default _Menu;","map":{"version":3,"sources":["/var/www/html/abcracing-web/common/components/Menu/Menu.jsx"],"names":[],"mappings":";;AAEA","sourcesContent":["import { Menu } from 'antd';\n\nexport default Menu;\n"]},"metadata":{},"sourceType":"module"}

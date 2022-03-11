@@ -1,0 +1,1 @@
+{"ast":null,"code":"import dynamic from 'next/dynamic';\nexport default dynamic(function () {\n  return import('./Notification');\n}, {\n  loadableGenerated: {\n    webpack: function webpack() {\n      return [require.resolveWeak('./Notification')];\n    },\n    modules: ['./Notification']\n  }\n});","map":null,"metadata":{},"sourceType":"module"}

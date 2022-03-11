@@ -1,0 +1,1 @@
+{"ast":null,"code":"import Icon from './Icon';\nexport default Icon;","map":{"version":3,"sources":["/var/www/html/abcracing-web/common/components/Icon/index.js"],"names":["Icon"],"mappings":"AAAA,OAAOA,IAAP,MAAiB,QAAjB;AAEA,eAAeA,IAAf","sourcesContent":["import Icon from './Icon';\n\nexport default Icon;\n"]},"metadata":{},"sourceType":"module"}

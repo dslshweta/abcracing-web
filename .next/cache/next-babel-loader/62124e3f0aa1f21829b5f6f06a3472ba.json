@@ -1,0 +1,1 @@
+{"ast":null,"code":"// pages/404.js\nvar Custom404 = function Custom404() {\n  return null;\n};\n\nexport default Custom404;","map":null,"metadata":{},"sourceType":"module"}
